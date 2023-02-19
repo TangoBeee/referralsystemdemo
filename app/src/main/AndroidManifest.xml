@@ -67,8 +67,8 @@
 
         <!--Branch.io meta data like api keys and all other stuffs-->
         <!-- Branch init -->
-        <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_mshpcfKHgfdAGO2jMEcKyjkgDxnw2pTb" />
-        <meta-data android:name="io.branch.sdk.BranchKey.test" android:value="key_test_drgbmeVOibpBSG9dRAtj4hjpysaCXgNz" />
+        <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live" />
+        <meta-data android:name="io.branch.sdk.BranchKey.test" android:value="key_test" />
         <meta-data android:name="io.branch.sdk.TestMode" android:value="true" />     <!-- Set to true to use Branch_Test_Key (useful when simulating installs and/or switching between debug and production flavors) -->
 
     </application>
